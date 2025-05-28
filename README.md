@@ -8,6 +8,8 @@
       Também cursando Técnico em Informática [Hardware e Software] - 3º Semestre</p>
 <p>---------------------------------------------------------------------------------------------------------------------------------------------------------</p>
   <h2>Linguagens e ferramentas:</h2>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
          
