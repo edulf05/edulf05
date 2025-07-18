@@ -5,8 +5,8 @@
   <h1>Sobre: </h1>
 <p>------------------------------------------------------------------------------------------------------------------------------------------</p>
   <p>Olá 👋 sou o Eduardo tenho 19 anos, estudante de Ciência da Computação - 3º Semestre<br>
-      Também cursando Técnico em Informática [Hardware e Software] - 3º Semestre<br>
-      Buscando oportunidade de emprego na area da programação!</p>
+      Formado Técnico em Informática [Hardware e Software] <br>
+      Buscando oportunidade de emprego na area da programação e TI!</p>
 <p>------------------------------------------------------------------------------------------------------------------------------------------</p>
   <h2>Linguagens e sistemas:</h2>
   
